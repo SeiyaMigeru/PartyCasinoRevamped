@@ -64,10 +64,10 @@ const Promo = () => {
 
             <div className="mt-7">
               <h3 className="text-xl font-semibold text-white group-hover:text-customPink dark:text-neutral-300 dark:group-hover:text-white">
-                Bankin' More Bacon
+                Bankin&apos; More Bacon
               </h3>
               <p className="mt-3 text-white dark:text-neutral-200">
-              Opt in to the Bankin’ More Bacon™ Bet & Get promotion.
+              Opt in to the Bankin &apos; More Bacon™ Bet & Get promotion.
               </p>
               <p className="mt-5 inline-flex items-center gap-x-1 text-sm text-customLighterPink decoration-2 group-hover:underline group-focus:underline font-medium dark:text-blue-500">
                 Learn more
